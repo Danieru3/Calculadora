@@ -1,11 +1,11 @@
 {
   "expo": {
-    "name": "calculadora_app",
-    "slug": "calculadora_app",
+    "name": "calculadora_aula",
+    "slug": "calculadora_aula",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
-    "scheme": "calculadoraapp",
+    "scheme": "calculadoraaula",
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
     "ios": {
