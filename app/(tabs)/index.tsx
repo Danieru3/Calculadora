@@ -47,3 +47,5 @@ const styles = StyleSheet.create({
   botao: { padding: 20, backgroundColor: '#ddd', borderRadius: 10 },
   textoBotao: { fontSize: 24 }
 });
+
+teste
