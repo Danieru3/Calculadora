@@ -31,6 +31,38 @@ export default function App() {
           <Text style={styles.textoBotao}>2</Text>
         </TouchableOpacity>
 
+        <TouchableOpacity style={styles.botao} onPress={() => digitarNumero('3')}>
+          <Text style={styles.textoBotao}>3</Text>
+        </TouchableOpacity>
+
+        <TouchableOpacity style={styles.botao} onPress={() => digitarNumero('4')}>
+          <Text style={styles.textoBotao}>4</Text>
+        </TouchableOpacity>
+
+        <TouchableOpacity style={styles.botao} onPress={() => digitarNumero('5')}>
+          <Text style={styles.textoBotao}>5</Text>
+        </TouchableOpacity>
+
+        <TouchableOpacity style={styles.botao} onPress={() => digitarNumero('6')}>
+          <Text style={styles.textoBotao}>6</Text>
+        </TouchableOpacity>
+
+        <TouchableOpacity style={styles.botao} onPress={() => digitarNumero('7')}>
+          <Text style={styles.textoBotao}>7</Text>
+        </TouchableOpacity>
+
+        <TouchableOpacity style={styles.botao} onPress={() => digitarNumero('8')}>
+          <Text style={styles.textoBotao}>8</Text>
+        </TouchableOpacity>
+
+        <TouchableOpacity style={styles.botao} onPress={() => digitarNumero('9')}>
+          <Text style={styles.textoBotao}>9</Text>
+        </TouchableOpacity>
+
+        <TouchableOpacity style={styles.botao} onPress={() => digitarNumero('0')}>
+          <Text style={styles.textoBotao}>0</Text>
+        </TouchableOpacity>
+
         <TouchableOpacity style={styles.botao} onPress={limpar}>
           <Text style={styles.textoBotao}>C</Text>
         </TouchableOpacity>
@@ -47,5 +79,3 @@ const styles = StyleSheet.create({
   botao: { padding: 20, backgroundColor: '#ddd', borderRadius: 10 },
   textoBotao: { fontSize: 24 }
 });
-
-teste
