@@ -17,12 +17,10 @@ Tecnologias Utilizadas
 - React Native / Expo: Framework para desenvolvimento cross-platform.
 - GitHub Desktop: Para controle de versão e commits.
 
-📸 Prévia Atual
-Atualmente, a calculadora possui o layout numérico organizado e o visor funcional para entrada de dados simples.
+Prévia Atual
+Atualmente, a calculadora possui o layoust numérico organizado e o visor funcional para entrada de dados simples.
 
-
-
-🏗️ Como rodar o projeto
+Como rodar o projeto
 
 1. Clone o repositório.
 2. Garanta que tem o Node.js instalado.
